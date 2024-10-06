@@ -50,7 +50,7 @@
 ### 🔥 My Projects:
 1. **[CrypFun](https://github.com/haroonsalim/crypfun)** - A cryptography tool with AES, DES, RSA, and more.
 2. **[MalDef](https://github.com/haroonsalim/maldef)** - Signature-based malware defense project.
-3. **[Frequent-Itemset analysis on Amazon MetaData Using Kafka]((https://github.com/HaroonSalim/Frequent-Itemset-Analysis-on-Amazon-Metadata))** - Frequent Itemset Analysis on Amazon Metadata using Apriori and PCY algorithms.
+3. **[Frequent Itemset Analysis on Amazon Metadata](https://github.com/HaroonSalim/Frequent-Itemset-Analysis-on-Amazon-Metadata)** - Analysis of frequent itemsets in Amazon's product metadata.
 
 ---
 
