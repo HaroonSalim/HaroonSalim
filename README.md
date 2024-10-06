@@ -48,7 +48,7 @@
 If you’re coding or relaxing, here’s a chill lofi beats mix to accompany your workflow! 🍃
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=5qap5aO4i9A" target="_blank">
+  <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
     <img src="https://img.shields.io/badge/Listen-LOFI_Mix-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
