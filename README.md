@@ -1,6 +1,6 @@
 # Hi, I'm Haroon Salim! 👋
 
-![Profile Banner](https://media.giphy.com/media/Yb3O4X87GAUB9NnF6K/giphy.gif)
+![Profile Banner](https://i.imgur.com/QuoVZ4T.jpg)
 
 ---
 
