@@ -1,9 +1,5 @@
 # Hi, I'm Haroon Salim! 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/77479815/169410902-e74f8a08-1a0c-4f89-983f-51e6b29adf44.jpg)
-
-
-
 ---
 
 ### 🌟 About Me:
@@ -11,7 +7,19 @@
 - 💻 Passionate about **coding**, **AI**, and building **cybersecurity tools**.
 - 🎮 I'm also a huge fan of gaming, especially action RPGs and strategy games.
 - 🚀 Always working on improving my tech skills while working on exciting projects.
-  
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/haroonsalim" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:haroon.salim@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ### 🚀 Technologies & Tools:
@@ -32,21 +40,21 @@
 
 ---
 
-### 🔥 My Projects:
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haroonsalim&show_icons=true&theme=radical" alt="Haroon's GitHub stats"/>
+</p>
 
+---
+
+### 🔥 My Projects:
 1. **[CrypFun](https://github.com/haroonsalim/crypfun)** - A cryptography tool with AES, DES, RSA, and more.
 2. **[MalDef](https://github.com/haroonsalim/maldef)** - Signature-based malware defense project.
 3. **[DungeonEscape](https://github.com/haroonsalim/dungeonescape)** - A fun grid-based dungeon escape game in Python.
 
 ---
 
-### 📊 GitHub Stats:
-![Haroon's GitHub stats](https://github-readme-stats.vercel.app/api?username=haroonsalim&show_icons=true&theme=radical)
-
----
-
 ### 🎵 Lofi Vibes:
-
 If you’re coding or relaxing, here’s a chill lofi beats mix to accompany your workflow! 🍃
 
 <div align="center">
@@ -57,14 +65,26 @@ If you’re coding or relaxing, here’s a chill lofi beats mix to accompany you
 
 ---
 
-### 📫 Contact Me:
+### 🏆 GitHub Trophies:
 
-- [LinkedIn](https://www.linkedin.com/in/haroonsalim) 
-- [Email Me](mailto:haroon.salim@hotmail.com)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=haroonsalim&theme=radical&no-bg=true&no-frame=true" />
+</div>
+
+---
+
+### 📫 Contact Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/haroonsalim" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:haroon.salim@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=haroonsalim" alt="visitor badge"/> 
 </div>
-
