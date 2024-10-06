@@ -12,7 +12,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/haroonsalim" target="_blank">
+  <a href="https://linkedin.com/in/haroon-salim-58249b230" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:haroon.salim@hotmail.com">
