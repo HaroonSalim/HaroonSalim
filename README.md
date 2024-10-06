@@ -1,6 +1,7 @@
 # Hi, I'm Haroon Salim! 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/77579815/132493318-0b660b62-9cb1-4903-9f15-bdfe16dbe599.jpg)
+![Profile Banner](https://user-images.githubusercontent.com/77479815/169410902-e74f8a08-1a0c-4f89-983f-51e6b29adf44.jpg)
+
 
 
 ---
