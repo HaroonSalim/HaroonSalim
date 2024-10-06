@@ -1,5 +1,10 @@
 # Hi, I'm Haroon Salim! 👋
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HaroonSalim/HaroonSalim/main/image.webp" alt="A cozy lofi pixel art scene" />
+</p>
+
+
 ---
 
 ### 🌟 About Me:
