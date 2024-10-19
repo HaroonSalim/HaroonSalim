@@ -91,6 +91,4 @@ If you’re coding or relaxing, here’s a chill lofi beats mix to accompany you
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=haroonsalim" alt="visitor badge"/> 
-</div>
+
