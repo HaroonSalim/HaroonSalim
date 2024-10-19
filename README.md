@@ -18,12 +18,13 @@
 ### 🌐 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/haroon-salim-58249b230" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="50" height="50" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn" />
   </a>
   <a href="mailto:haroon.salim@hotmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftoutlook.svg" width="50" height="50" alt="Outlook" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" alt="Email" />
   </a>
 </p>
+
 
 
 
