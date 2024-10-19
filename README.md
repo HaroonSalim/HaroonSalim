@@ -45,8 +45,8 @@
 
 ---
 
-### 📊 GitHub Stats:
-<img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=HaroonSalim&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HaroonSalim&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&count_private=true)
+
 
 ---
 
